@@ -1,4 +1,5 @@
 # mapbox.js
+# NOTE: This repo should not be used - use [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) instead
 
 [![Build Status](https://travis-ci.com/mapbox/mapbox.js.svg?branch=publisher-production)](https://travis-ci.com/mapbox/mapbox.js)
 
